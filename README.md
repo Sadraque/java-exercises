@@ -1,4 +1,4 @@
-# URI-Online-Judge-ProblemsResolved
+# Java Exercices
 <br>
 <img src="https://www.urionlinejudge.com.br//judge/img/5.0/logo.130615.png?1591503281" />
 <br>
